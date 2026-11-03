@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+__pycache__/
+**/*.pyc
+.DS_Store
+frontend/dist/
+backend/venv/
+**/venv/
+backend/.pytest_cache/
+.env
+*.env
+backend/.env
+.vscode/
+sarvamAI/
